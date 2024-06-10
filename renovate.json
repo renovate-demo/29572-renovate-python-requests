@@ -4,6 +4,6 @@
     "config:recommended"
   ],
   "vulnerabilityAlerts": {
-    "enabled": true,
+    "enabled": true
   }
 }
